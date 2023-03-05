@@ -76,7 +76,6 @@
             <scope>test</scope>
         </dependency>
 
-
         <dependency>
             <groupId>me.jvt.cucumber</groupId>
             <artifactId>reporting-plugin</artifactId>
